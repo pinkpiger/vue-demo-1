@@ -17,3 +17,6 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+预览地址
+https://github.com/pinkpiger/vue-demo-1/dist/index.html
